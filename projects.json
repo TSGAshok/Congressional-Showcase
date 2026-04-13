@@ -463,5 +463,140 @@
   "district": "MI-09",
   "state": "MI",
   "tags": ["health", "ai"]
+},
+{
+  "slug": "MN-05",
+  "name": "Ved Bastodkar",
+  "appName": "Bread Head",
+  "description": "A teen-centered app that gives every teenager the financial literacy and real-world money skills to budget, save, and build wealth.",
+  "thumbnail": "sites/MN-05/thumbnail.png",
+  "location": {
+    "lat": 44.9778,
+    "lng": -93.2650,
+    "label": "Minneapolis, MN"
+  },
+  "district": "MN-05",
+  "state": "MN",
+  "tags": ["education", "social", "games", "accessibility", "finance"]
+},
+{
+  "slug": "CA-26",
+  "name": "Kevin Fei",
+  "appName": "Motio",
+  "description": "An app that uses cell phone GPS and accelerometer data to improve the user's driving.",
+  "thumbnail": "sites/CA-26/thumbnail.png",
+  "location": {
+    "lat": 34.1706,
+    "lng": -118.8376,
+    "label": "Thousand Oaks, CA"
+  },
+  "district": "CA-26",
+  "state": "CA",
+  "tags": ["civic", "social"]
+},
+{
+  "slug": "NC-10",
+  "name": "Roshan Naik",
+  "appName": "NationVitals",
+  "description": "A data-driven platform combining public health and socioeconomic data into a clear-to-understand atlas with interactive county-level insights.",
+  "thumbnail": "sites/NC-10/thumbnail.png",
+  "location": {
+    "lat": 35.5849,
+    "lng": -80.8101,
+    "label": "Mooresville, NC"
+  },
+  "district": "NC-10",
+  "state": "NC",
+  "tags": ["health", "civic", "social", "ai", "accessibility"]
+},
+{
+  "slug": "NJ-10",
+  "name": "Shashank Madala",
+  "appName": "Kora",
+  "description": "An AI-powered app that uses computer vision to interpret and communicate emotions for children with autism.",
+  "thumbnail": "sites/NJ-10/thumbnail.png",
+  "location": {
+    "lat": 40.2206,
+    "lng": -74.5947,
+    "label": "Robbinsville, NJ"
+  },
+  "district": "NJ-10",
+  "state": "NJ",
+  "tags": ["education", "health", "ai", "accessibility"]
+},
+{
+  "slug": "VA-10",
+  "name": "Jacob Percy, Gautam Annamalai, Saurish Tripathi",
+  "appName": "ElectConnect",
+  "description": "A civic engagement app providing unbiased news, political fact checking, and connecting users with their legislators.",
+  "thumbnail": "sites/VA-10/thumbnail.png",
+  "location": {
+    "lat": 38.8048,
+    "lng": -77.0469,
+    "label": "Alexandria, VA"
+  },
+  "district": "VA-10",
+  "state": "VA",
+  "tags": ["civic", "ai"]
+},
+{
+  "slug": "WA-01",
+  "name": "Hiya Pandey, Isabella Li, Anya Mehta",
+  "appName": "AnemoDx",
+  "description": "An app that helps users assess anemia risk using noninvasive fingernail imaging and machine learning.",
+  "thumbnail": "sites/WA-01/thumbnail.png",
+  "location": {
+    "lat": 47.6740,
+    "lng": -122.1215,
+    "label": "Redmond, WA"
+  },
+  "district": "WA-01",
+  "state": "WA",
+  "tags": ["health", "ai"]
+},
+{
+  "slug": "TX-37",
+  "name": "Vihaan Gandra, Shivank Ahuja, Viraj Velur, Pranav Kulshrestha",
+  "appName": "CareLoop",
+  "description": "A comprehensive iOS platform empowering caregivers by streamlining task coordination, health tracking, and daily scheduling.",
+  "thumbnail": "sites/TX-37/thumbnail.png",
+  "location": {
+    "lat": 30.2672,
+    "lng": -97.7431,
+    "label": "Austin, TX"
+  },
+  "district": "TX-37",
+  "state": "TX",
+  "tags": ["health", "social"]
+},
+{
+  "slug": "NJ-08",
+  "name": "Sarah Ji",
+  "appName": "GreenAI",
+  "description": "Use energy smarter, not less: reduce up to 35% of household carbon emissions with AI-powered carbon intensity forecasting.",
+  "thumbnail": "sites/NJ-08/thumbnail.png",
+  "location": {
+    "lat": 40.7178,
+    "lng": -74.0431,
+    "label": "Jersey City, NJ"
+  },
+  "district": "NJ-08",
+  "state": "NJ",
+  "tags": ["environment", "ai", "accessibility"]
+},
+{
+  "slug": "MI-06",
+  "name": "Srihan Sankepalle, Abhinav Mosra, Nihit Yeruva",
+  "appName": "EcoTrack",
+  "description": "A cross-platform app that helps users track their real-time carbon footprint, learn sustainability through challenges and trivia, and connect with local environmental events.",
+  "thumbnail": "sites/MI-06/thumbnail.png",
+  "location": {
+    "lat": 42.4311,
+    "lng": -83.4833,
+    "label": "Northville, MI"
+  },
+  "district": "MI-06",
+  "state": "MI",
+  "tags": ["education", "environment", "ai"]
 }
 ]
